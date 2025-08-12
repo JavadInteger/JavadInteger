@@ -2,6 +2,8 @@
 
 <hr/>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;Modern+App+Developer;Reverse+Engineer;&center=true&vCenter=true&width=700&height=60&size=24&pause=1500&duration=3000&color=00AA00)
+
 <h3 id="stats">My GitHub stats:</h3>
 
 ![JavadInteger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavadInteger&theme=shadow_green&show_icons=true&title_color=009900&icon_color=00AA00&text_color=00EE00&hide_border=true&ring_color=00FF00&rank_icon=percentile)
