@@ -1,8 +1,6 @@
-<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a><br/><a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;Modern+App+Developer;Reverse+Engineer;&center=true&vCenter=true&width=1000&height=60&size=30&pause=1500&duration=3000&color=00AA00)
 
 <hr/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;Modern+App+Developer;Reverse+Engineer;&center=true&vCenter=true&width=1000&height=60&size=30&pause=1500&duration=3000&color=00AA00)
 
 <h3 id="stats">My GitHub stats:</h3>
 
@@ -118,7 +116,3 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): @BackTlCK - @SiGneDInteger<br/>
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white): @JavadInteger<br/>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): @JavadInteger
-
-<hr/>
-
-<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a><br/><a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
