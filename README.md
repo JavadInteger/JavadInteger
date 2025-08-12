@@ -1,4 +1,4 @@
-<a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a> | <a href="#servers">Go to Servers</a> | <a href="#social">Go to Socials</a>
+<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a> | <a href="#servers">Go to Servers</a> | <a href="#social">Go to Socials</a></h5>
 
 <hr/>
 
@@ -17,6 +17,7 @@
 <h3 id="tech">Technologies:</h3>
 
 <h4 id="languages">Programming Languages:</h4>
+
 
 <h4 id="databases">Databases:</h4>
 
