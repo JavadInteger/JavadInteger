@@ -1,17 +1,12 @@
-<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a><br/><a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
+<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a><br/><a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
 
 <hr/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;Modern+App+Developer;Reverse+Engineer;&center=true&vCenter=true&width=700&height=60&size=24&pause=1500&duration=3000&color=00AA00)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;Modern+App+Developer;Reverse+Engineer;&center=true&vCenter=true&width=1000&height=60&size=30&pause=1500&duration=3000&color=00AA00)
 
 <h3 id="stats">My GitHub stats:</h3>
 
 ![JavadInteger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavadInteger&theme=shadow_green&show_icons=true&title_color=009900&icon_color=00AA00&text_color=00EE00&hide_border=true&ring_color=00FF00&rank_icon=percentile)
-
-<hr/>
-
-<h3 id="mostUsed">Most used Programming Languages by me:</h3>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavadInteger&layout=donut&theme=shadow_green&title_color=009900&icon_color=00AA00&text_color=00EE00&hide_border=true)](https://github.com/JavadInteger/github-readme-stats)
 
 <hr/>
@@ -126,4 +121,4 @@
 
 <hr/>
 
-<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a><br/><a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
+<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a><br/><a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
