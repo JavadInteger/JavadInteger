@@ -1,4 +1,4 @@
-<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a> | <a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#ai">Go to AIs</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
+<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a> | <a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
 
 <hr/>
 
@@ -96,17 +96,10 @@
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 
-<h4 id="ai">Most used AIs:</h4>
-
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-
 <h4 id="os">Operating Systems:</h4>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <h4 id="others">Other technologies:</h4>
@@ -119,14 +112,6 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)<br/>
-![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)<br/>
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)<br/>
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)<br/>
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)<br/>
-![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)<br/>
-![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)<br/>
-![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
 
 <h4 id="social">Social:</h4>
 
@@ -139,4 +124,4 @@
 
 <hr/>
 
-<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a> | <a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#ai">Go to AIs</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
+<h5 style="text-decoration: none"><a href="#stats">Go to Stats</a> | <a href="#mostUsed">Go to Most used Languages</a> | <a href="#tech">Go to Technologies</a> | <a href="#languages">Go to Programming Languages</a> | <a href="#databases">Go to Databases</a> | <a href="#frameworks">Go to Frameworks</a> | <a href="#ide">Go to IDE & Editors</a> | <a href="#servers">Go to Servers & Hosting</a> | <a href="#vcs">Go to VCSs</a> | <a href="#working">Go to Working</a> | <a href="#os">Go to Operating Systems</a> | <a href="#others">Go to Others</a> | <a href="#social">Go to Socials</a></h5>
